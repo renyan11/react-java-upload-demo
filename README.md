@@ -1,7 +1,7 @@
 前端：<br/>
 快速构建React+webpack应用：yeoman<br/>
 1.确保自己有nodejs <br/>
-2.全部安装yeoman：<br/>
+2.全局安装yeoman：<br/>
   npm(cnpm) install -g yo <br/>
 3.直接安装脚手架<br/>
   npm(cnpm) install -g generator-reactpackage <br/>
@@ -9,7 +9,7 @@
   mkdir react-ajax-uploadDemo  <br/>
   cd react-ajax-uploadDemo  <br/>
   yo reactpackage  <br/>
-5.应用目录已经生成react-ajax-uploadDemo文件夹下  <br/>
+5.应用目录已经生成在react-ajax-uploadDemo文件夹下  <br/>
 	├── data		<br/>
 	│ └── test.json		<br/>
 	├── src		<br/>
