@@ -1,4 +1,4 @@
-前端：
+前端：<br/>
 快速构建React+webpack应用：yeoman<br/>
 1.确保自己有nodejs <br/>
 2.全部安装yeoman：<br/>
@@ -9,23 +9,23 @@
   mkdir react-ajax-uploadDemo  <br/>
   yo reactpackage  <br/>
 5.应用目录已经生成  <br/>
-	├── data
-	│ └── test.json
-	├── src
-	│ ├── components
-	│ │ └── App.js
-	│ ├── images
-	│ │ └── yeoman.png
-	│ ├── styles
-	│ │ └── app.scss
-	│ ├── vendor
-	│ │ └── jquery.js
-	│ ├── views
-	│ │ └── home.html
-	├── node_modules
-	├── index.html
-	├── package.json
-	└── webpack.config.js
+	├── data		<br/>
+	│ └── test.json		<br/>
+	├── src		<br/>
+	│ ├── components		<br/>
+	│ │ └── App.js		<br/>
+	│ ├── images		<br/>
+	│ │ └── yeoman.png		<br/>
+	│ ├── styles		<br/>
+	│ │ └── app.scss		<br/>
+	│ ├── vendor		<br/>
+	│ │ └── jquery.js		<br/>
+	│ ├── views		<br/>
+	│ │ └── home.html		<br/>
+	├── node_modules		<br/>
+	├── index.html		<br/>
+	├── package.json		<br/>
+	└── webpack.config.js		<br/>
 6. npm(cnpm) install <br/>
 7. 项目开发过程使用，启动服务，实时刷新 <br/>
    npm(cnpm) run dev  <br/>
@@ -33,7 +33,7 @@
    npm(cnpm) run build  <br/>
 9. 浏览器输入 http://localhost:8888
 
-后台:
+后台:		<br/>
 java upload 可直接导入eclipse tomcat启动 发布服务 
 
 
