@@ -7,8 +7,9 @@
   npm(cnpm) install -g generator-reactpackage <br/>
 4.假设在E:\目录下  <br/>
   mkdir react-ajax-uploadDemo  <br/>
+  cd react-ajax-uploadDemo  <br/>
   yo reactpackage  <br/>
-5.应用目录已经生成  <br/>
+5.应用目录已经生成react-ajax-uploadDemo文件夹下  <br/>
 	├── data		<br/>
 	│ └── test.json		<br/>
 	├── src		<br/>
